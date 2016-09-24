@@ -1,0 +1,314 @@
+#bg3{
+    background-image: url("backgrounds/2.jpg");
+
+}
+#bg2{
+    background-image: url("backgrounds/5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#bg1{
+    background-image: url("backgrounds/9.jpg")
+}
+body{
+
+}
+.navbar-default {
+  background-color:teal;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+span.heads{
+    font-size: 20px;
+}
+legend {
+    margin:0 auto;
+    color:blue;
+    text-align: center;
+}
+#cd{
+   position: relative;
+    bottom:20px;
+}
+#note{
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+#n{
+        display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+#pimg{
+    float:right;
+   position: relative;
+    top: 5px;
+    right:1cm;
+     border: 3px solid;
+    border-radius: 4px;
+}
+#box{
+     box-shadow:0px 0px 15px#ffffff;
+      height:100%;
+}
+
+#cimg{
+    
+    float: right;
+    border-radius: 25%;
+    right:10px;
+    left:2cm;
+
+}
+#div1{
+    text-align: bottom;
+}
+fieldset {
+   
+    left: 80px;
+    color: purple;
+    background-position: left top;
+    padding: 20px;
+    width: 400px;
+    height: 320px;
+     font-family:serif;
+     font-size: 16px;    
+ }
+ footer {
+    background-color: #636363;
+    position: relative;
+    top:5.8cm;
+    height: 60px;
+    width: 100%;
+   
+    text-align: center;
+
+}
+img.c1{  
+    border-radius: 2cm;
+ 
+}
+#id01{
+    font-family:Sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 25px;
+    border: 2px  black;
+    border-radius: 15%;
+    float:right;
+    background-image: url("backgrounds/9.jpg");
+border-style: solid;
+}
+.button{
+    background-color: #4CAF50;
+    border-radius: 2cm;
+    color: white;
+    border-color: olive;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+.button:hover{
+  background-color: #3e8e41;
+}
+
+#quest{
+   
+    bottom:2cm;
+    left:1cm;
+
+}
+#ss{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#quizdiv{
+font-family: Arial, Helvetica, sans-serif
+}
+#qdiv{
+       text-align: center;
+       bottom:cm;
+     
+
+}
+#ndiv{
+  position: relative;
+    top:3cm;
+}
+#but1{
+   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    
+    top:75px;
+}
+#but1:hover{
+  background-color: #3e8e41;
+}
+#but2{
+background-color: #4CAF50; /* Green */
+    border-color: olive;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 1cm;
+     padding: 5px 10px;
+      border-style: outset;
+}
+#but2:hover{
+  background-color: #3e8e41;
+}
+#modal1{
+    position: relative;
+    float:bottom;
+    top:1.5cm;
+}
+#but3{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size:20px;
+ padding: 8px 16px;
+ position:relative;
+ bottom:0.5cm;
+
+}
+#but3:hover{
+  background-color: #3e8e41;
+}
+
+#submit1{
+    position: relative;
+    bottom:10cm;
+
+
+}#results{
+    color:#008b8b;
+    font-size:32px;
+    
+    bottom:8cm;
+    left:1cm;
+}
+
+#qimg{
+    opacity: 0.1;
+    filter: alpha(opacity=50); 
+    
+   right:6cm;
+   bottom:3cm;
+    
+}
+#retakeb{
+
+background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 1cm;
+    font-size:20px;
+ padding: 10px 20px;
+ bottom:12cm;
+}
+#retakeb:hover{
+  background-color: #3e8e41;
+}
+
+#hbody{
+
+    background-color: #f0f8ff;
+}
+
+#himg{
+    position: ;
+    float: right;
+    bottom:9cm;
+    right:1cm;
+    border-radabius: 1cm;
+}
+#open1
+{
+    position: ;
+    left:1cm;
+}
+#htable1{
+position:;
+    
+    left:cm;
+}
+#hid{
+    position: ;
+}
+#hid:hover{
+    background-color: green;
+}
+#highlight{
+    background-color: #caff70;
+    font-family: sans-serif;
+    border-radius: 1cm;
+    border-style: dotted;
+    padding:10px;
+    position: relative;
+    top:1.5cm;
+ 
+    
+}
+#highlight1{
+    color:#4a4a4a;
+    font-family: sans-serif;
+
+
+}
+#nspan{
+    color:blue;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+span.tf{
+    color:red;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+span.qsts{
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+#htxt{
+    position:;
+    bottom:10cm;
+    font-size:20px; 
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    float: right;
+    background-color:#b0e2ff;
+    border-radius: 15px;
+    border-style: ;
+}
+
+#pfact{
+    color: green;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    width: 100%;
+}
+#phd{
+    font-size: 30px;
+    color:blue;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+#fid{
+    background-color: lightgreen;
+      border-radius: 5px;
+}
